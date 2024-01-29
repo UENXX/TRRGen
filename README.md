@@ -1,5 +1,6 @@
 # A Transformer-Based Approach for Improving App Review Response Generation
 In this repo, we release code and data for training a TRRGen model.
+You can see our paper [here](https://arxiv.org/pdf/2209.08055.pdf).
 ## Install
 Please prepare a proper tensorflow environment for runing the code
 ```
