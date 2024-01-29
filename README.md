@@ -8,7 +8,7 @@ pip install tensorflow tensorflow_datasets numpy matplotlib tqdm
 ```
 
 ## Dataset
-Download from [here](https://drive.google.com/file/d/1Ycl7AW5jhYHMyPqJT8KimAgdFz8hitjK/view?usp=sharing).
+Download [here](https://drive.google.com/file/d/1Ycl7AW5jhYHMyPqJT8KimAgdFz8hitjK/view?usp=sharing).
 
 ## Train and test
 For training the model,
