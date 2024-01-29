@@ -1,7 +1,10 @@
 # TRRGen
 
-## Installing
-
+## Environment
+Please prepare a functional tensorflow environment for runing the code
+```
+pip install tensorflow tensorflow_datasets numpy matplotlib tqdm
+```
 
 ## Dataset
 Download from [here](https://drive.google.com/file/d/1Ycl7AW5jhYHMyPqJT8KimAgdFz8hitjK/view?usp=sharing).
